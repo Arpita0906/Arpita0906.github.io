@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://github.com/Dev-Mriganka/Dev-Mriganka.github.io/blob/main/image/Portfolio.jpg">
 
 
-I'm Mriganka, a Fullstack developer from Kolkata. I love to explore new things and also love to help people. I am passionate about fitness.
+I'm Arpita Saha, a Software Engineer from Kolkata. I love to explore new things and also love to help people. I am passionate about photography.
 
 
 
