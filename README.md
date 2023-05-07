@@ -1,7 +1,7 @@
 # Personal Portfolio 
 
 
-<img align="right" alt="Coding" width="400" src="https://github.com/Dev-Mriganka/Dev-Mriganka.github.io/blob/main/image/Portfolio.jpg">
+<img align="right" alt="Coding" width="400" src="https://github.com/Arpita0906/Arpita0906.github.io/blob/main/image/Portfolio.jpg">
 
 
 I'm Arpita Saha, a Software Engineer from Kolkata. I love to explore new things and also love to help people. I am passionate about photography.
