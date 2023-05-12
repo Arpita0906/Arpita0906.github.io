@@ -501,7 +501,7 @@ header {
 
 .static-hero .static-hero-right {
    position: absolute;
-   right: 200px;
+   right: 300px;
    top: 53%;
    -webkit-transform: translateY(-50%);
    transform: translateY(-50%);
